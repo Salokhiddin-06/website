@@ -183,4 +183,5 @@ Xato va kamchiliklar bo'lsa uzur so'rayman )
 
 Foydanilgan Manbalar
 
+
 [freecodecamp.org](https://www.freecodecamp.org/news/how-does-a-cpu-work/)
